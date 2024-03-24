@@ -27,7 +27,7 @@ public class EnumSetExample {
 		System.out.println(sizes);
 		
 		System.out.println(sizes2.contains(Size.MEDIUM));
-		System.out.println(sizes2.contains(sizes));
+		//System.out.println(sizes2.contains(sizes));
 
 	}
 
